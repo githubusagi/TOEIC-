@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+streamlit
+openpyxl
+flask
+streamlit
+joblib
+
+#pip install -r requirements.txt
